@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python false
 """
 | Copyright (C) 2017 Johannes Schlatow
 | TU Braunschweig, Germany
@@ -93,3 +93,4 @@ if __name__ == "__main__":
 
 #    m.write_dot(options.get_opt('output'))
 #    g.random_wcet(m, load=0.6, rel_jitter=0.1)
+Opt out
